@@ -1,4 +1,4 @@
-import numpy as np #@bvb
+import numpy as np 
 import random
 
 #States: 0,1,2,3,(2*2 grid)
